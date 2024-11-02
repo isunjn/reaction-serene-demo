@@ -1,14 +1,14 @@
-name = "reaction"
+name = "reaction-serene-demo"
 main = "src/index.ts"
 compatibility_date = "2024-10-25"
 compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
-ORIGINS = [ ]
-EMOJIS = [ ]
-SLUGS = [ ]
+ORIGINS = ["https://serene-demo.pages.dev", "https://serene-demo-site.vercel.app"]
+EMOJIS = ["👍", "👀", "😠"]
+SLUGS = ["about", "example-post"]
 
 [[d1_databases]]
 binding = "DB"
-database_name = ""
-database_id = ""
+database_name = "reaction-serene-demo"
+database_id = "69abc4e6-e8d4-4242-b87d-ea01e6ce7afe"
