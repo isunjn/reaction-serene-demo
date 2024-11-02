@@ -1,0 +1,14 @@
+name = "reaction"
+main = "src/index.ts"
+compatibility_date = "2024-10-25"
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+ORIGINS = [ ]
+EMOJIS = [ ]
+SLUGS = [ ]
+
+[[d1_databases]]
+binding = "DB"
+database_name = ""
+database_id = ""
