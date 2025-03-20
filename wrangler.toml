@@ -6,7 +6,7 @@ compatibility_flags = [ "nodejs_compat" ]
 [vars]
 ORIGINS = ["https://serene-demo.pages.dev", "https://serene-demo-site.vercel.app"]
 EMOJIS = ["👍", "👀", "😠"]
-SLUGS = ["about", "example-post"]
+SLUGS = ["about", "reaction"]
 
 [[d1_databases]]
 binding = "DB"
